@@ -1,6 +1,8 @@
-# Welcome to CosmosDb.QuickStart sample to Configure Connection Policy with reduced Client side latency
+# Welcome to CosmosDb.QuickStart
 
-Hi! I out together a sample quick start to help you all in optimizing your Cosmos Db .NET SDK integration logic using **Microsoft.Azure.Documents.Client.ConnectionPolicy**. 
+## Topic: Configure Connection Policy with reduced Client side latency
+
+Hi! I put together a sample quick start to help you all in optimizing your Cosmos Db .NET SDK integration logic using **Microsoft.Azure.Documents.Client.ConnectionPolicy**. 
 
 # Prerequisites 
 1. Windows 7/8.x/10 with Visual Studio 2015/2017 with .NET Framework 4.5
